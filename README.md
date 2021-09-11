@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @renatex333
 
+![Snake animation](https://github.com/renatex333/renatex333/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 
