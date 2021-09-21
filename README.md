@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @renatex333
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Java and Python
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <ul>
+      <li>👋 Hi, I’m @renatex333</li>
+      <li>👀 I’m interested in Robotics</li>
+      <li>🌱 I’m currently learning Java and Python</li>
+    </ul>
+  </div>
+  <img alt="Renato-Samurai" src="img/samurai.gif">
+</div>
+
 <br>
 <div style="display: inline-block">
   <a href="https://github.com/renatex333">
