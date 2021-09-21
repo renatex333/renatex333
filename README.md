@@ -1,14 +1,13 @@
-<div style="display: inline">  
-  <div>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">  
     <ul>
       <li>👋 Hi, I’m @renatex333</li>
       <li>👀 I’m interested in Robotics</li>
       <li>🌱 I’m currently learning Java and Python</li>
+      <li>👋 Hi, I’m @renatex333</li>
+      <li>👀 I’m interested in Robotics</li>
+      <li>🌱 I’m currently learning Java and Python</li>
     </ul>
-  </div>
-  <div>
    <img alt="Renato-Samurai" src="img/samurai.gif">
-  </div>
 </div>
 
 <br>
