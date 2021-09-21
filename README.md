@@ -4,8 +4,8 @@
 <br>
 <div style="display: inline-block">
   <a href="https://github.com/renatex333">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatex333&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="3rem" src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="3rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatex333&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline-block"><br>
@@ -15,7 +15,6 @@
   <img align="center" alt="Renato-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renato-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renato-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Renato-Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Renato-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Renato-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Renato-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
