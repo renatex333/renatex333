@@ -3,9 +3,6 @@
       <li>👋 Hi, I’m @renatex333</li>
       <li>👀 I’m interested in Robotics</li>
       <li>🌱 I’m currently learning Java and Python</li>
-      <li>👋 Hi, I’m @renatex333</li>
-      <li>👀 I’m interested in Robotics</li>
-      <li>🌱 I’m currently learning Java and Python</li>
     </ul>
    <img alt="Renato-Samurai" src="img/samurai.gif">
 </div>
