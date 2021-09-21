@@ -1,16 +1,14 @@
-<div style="display: table">
-  
-  <div style="float: left">
+<div style="display: inline">  
+  <div>
     <ul>
       <li>👋 Hi, I’m @renatex333</li>
       <li>👀 I’m interested in Robotics</li>
       <li>🌱 I’m currently learning Java and Python</li>
     </ul>
   </div>
-  <div style="float: right">
+  <div>
    <img alt="Renato-Samurai" src="img/samurai.gif">
   </div>
- 
 </div>
 
 <br>
