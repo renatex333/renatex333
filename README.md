@@ -1,19 +1,23 @@
-![Renato-Samurai](img/samurai.gif)
-![Renato-Samurai](img/samurai.gif)
-![Renato-Samurai](img/samurai.gif)
+![Renato-Gris](src/gris.gif)
+<!--- 
+![Renato-Samurai](src/samurai.gif)
+![Renato-Witcher](src/img1.jpg)
+![Renato-Kukri](src/img2.jpg)
+--->
 
-
-- 👋 Hi, I’m @renatex333
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Java and Python
+- 👋 Olá! Eu sou o @renatex333
+- 🖥️ Gosto muito de programação, em especial para Robótica
+- 👨‍🎓 Estou me graduando em Engenharia da Computação
+- 🌱 Estou aprendendo Java e Python
+- 🎮 Paixão por Games
 
 ##
 
 <br>
 <div style="display: inline-block">
   <a href="https://github.com/renatex333">
-  <img height="147rem" src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="147rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatex333&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatex333&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline-block"><br>
@@ -31,12 +35,3 @@
 ##
 
 ![Snake animation](https://github.com/renatex333/renatex333/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-renatex333/renatex333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
