@@ -1,11 +1,15 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between;">  
+<div style="float: left; width 50%;">  
     <ul>
-      <li>👋 Hi, I’m @renatex333</li>
-      <li>👀 I’m interested in Robotics</li>
-      <li>🌱 I’m currently learning Java and Python</li>
+        <li>👋 Hi, I’m @renatex333</li>
+        <li>👀 I’m interested in Robotics</li>
+        <li>🌱 I’m currently learning Java and Python</li>
     </ul>
-   <img alt="Renato-Samurai" src="img/samurai.gif">
 </div>
+<div>
+    <img alt="Renato-Samurai" src="img/samurai.gif"/>
+</div>
+    
+##
 
 <br>
 <div style="display: inline-block">
@@ -25,6 +29,8 @@
   <img align="center" alt="Renato-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Renato-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+    
+##
 
 ![Snake animation](https://github.com/renatex333/renatex333/blob/output/github-contribution-grid-snake.svg)
 
