@@ -6,7 +6,7 @@
 --->
 
 - 👋 Olá! Eu sou o @renatex333
-- 🖥️ Gosto muito de programação, em especial para Robótica
+<!--- - 🖥️ Gosto muito de programação, em especial para Robótica --->
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
 - 🌱 Estou aprendendo Java e Python
 - 🎮 Paixão por Games
