@@ -4,7 +4,6 @@
 ![Renato-Witcher](src/img1.jpg)
 ![Renato-Kukri](src/img2.jpg)
 --->
-<!--- - 🖥️ Gosto muito de programação, em especial para Robótica --->
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
 - 🌱 Estou aprendendo Java e Python
