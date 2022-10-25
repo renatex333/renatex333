@@ -6,17 +6,8 @@
 --->
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
-- 🌱 Estou aprendendo Java e Python
-- 🎮 Paixão por Games
 
 ##
-
-<br>
-<div style="display: inline-block">
-  <a href="https://github.com/renatex333">
-  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=renatex333&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Renato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,6 +19,7 @@
   <img align="center" alt="Renato-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Renato-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Renato-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Renato-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
     
 ##
