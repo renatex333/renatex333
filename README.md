@@ -19,7 +19,7 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
 --->
 27
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; flex-flow: column wrap; width: 100;"><br>
+<div><br>
   <img align="center" alt="Renato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Renato-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
