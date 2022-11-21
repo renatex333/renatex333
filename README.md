@@ -1,7 +1,7 @@
+![Renato-Samurai](src/samurai2.gif =250x250)
 
-<iframe src="https://giphy.com/embed/fA7rLtaJDIWEzU57CT" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <!--- 
-![Renato-Samurai](src/samurai2.gif)
+
 ![Renato-Gris](src/gris.gif)
 ![Renato-Witcher](src/witcher.jpg)
 ![Renato-Kukri](src/farcry.jpg)
