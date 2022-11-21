@@ -1,8 +1,11 @@
-![Renato-Samurai](src/samurai.gif)
+
+<img src="src/samurai2.gif" width="1100"/>
+
 <!--- 
+![Renato-Samurai](src/samurai2.gif)
 ![Renato-Gris](src/gris.gif)
-![Renato-Witcher](src/img1.jpg)
-![Renato-Kukri](src/img2.jpg)
+![Renato-Witcher](src/witcher.jpg)
+![Renato-Kukri](src/farcry.jpg)
 --->
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
