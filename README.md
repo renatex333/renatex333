@@ -1,8 +1,7 @@
 
-<img src="src/samurai3.gif" width="100%"/>
+<img src="src/samurai.gif" width="100%"/>
 
 <!--- 
-![Renato-Samurai](src/samurai2.gif)
 ![Renato-Gris](src/gris.gif)
 ![Renato-Witcher](src/witcher.jpg)
 ![Renato-Kukri](src/farcry.jpg)
