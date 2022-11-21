@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/fA7rLtaJDIWEzU57CT" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-fA7rLtaJDIWEzU57CT">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/fA7rLtaJDIWEzU57CT" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <!--- 
 ![Renato-Samurai](src/samurai2.gif)
 ![Renato-Gris](src/gris.gif)
