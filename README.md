@@ -19,9 +19,9 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
 --->
 
 <div align="center"><br>
-  <img align="center" alt="Renato-Python" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Renato-Java" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Renato-HTML" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Renato-Python" height="56" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Renato-Java" height="56" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Renato-HTML" height="56" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Renato-CSS" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Renato-Js" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">   
   <img align="center" alt="Renato-Arduino" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"> 
