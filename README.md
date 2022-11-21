@@ -1,4 +1,4 @@
-![Renato-Samurai](src/samurai2.gif =250x250)
+![Renato-Samurai](src/samurai2.gif)
 
 <!--- 
 
