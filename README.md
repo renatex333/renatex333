@@ -9,7 +9,7 @@
 
 Meu Perfil no LinkedIn &rarr;
 <a href="www.linkedin.com/in/renato-laffranchi-falcao">
-  <img align="left" alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  <img alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 ##
