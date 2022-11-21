@@ -7,10 +7,10 @@
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
 
-Meu Perfil no LinkedIn &rarr;
+<!-- Meu Perfil no LinkedIn &rarr;
 <a href="www.linkedin.com/in/renato-laffranchi-falcao">
   <img alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
+</a> -->
 
 ##
 
@@ -18,7 +18,7 @@ Meu Perfil no LinkedIn &rarr;
 Referência para os ícones: https://github.com/devicons/devicon/tree/master/icons
 --->
 27
-<div style="display: inline-block"><br>
+<div style="display: grid"><br>
   <img align="center" alt="Renato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Renato-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
