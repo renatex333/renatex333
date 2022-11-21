@@ -19,8 +19,6 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
 --->
 27
 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; flex-flow: column wrap; width: 100;"><br>
   <img align="center" alt="Renato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -29,6 +27,7 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
   <img align="center" alt="Renato-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renato-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Renato-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  
   <img align="center" alt="Renato-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Renato-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Renato-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
