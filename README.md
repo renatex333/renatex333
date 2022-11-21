@@ -1,5 +1,5 @@
 
-<img src="src/samurai2.gif" width="700"/>
+<img src="src/samurai2.gif" width="900"/>
 
 <!--- 
 ![Renato-Samurai](src/samurai2.gif)
