@@ -1,6 +1,6 @@
-![Renato-Gris](src/gris.gif)
-<!--- 
 ![Renato-Samurai](src/samurai.gif)
+<!--- 
+![Renato-Gris](src/gris.gif)
 ![Renato-Witcher](src/img1.jpg)
 ![Renato-Kukri](src/img2.jpg)
 --->
