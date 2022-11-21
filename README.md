@@ -7,12 +7,15 @@
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
 
+  <img align="left" alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> 
+  [Meu LinkedIn](www.linkedin.com/in/renato-laffranchi-falcao)
+
 ##
 
 <!---
 Referência para os ícones: https://github.com/devicons/devicon/tree/master/icons
 --->
-
+27
 <div style="display: inline-block"><br>
   <img align="center" alt="Renato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -31,7 +34,6 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
   <img align="center" alt="Renato-GCC" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
   <img align="center" alt="Renato-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="Renato-Kaggle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg">
-  <img align="center" alt="Renato-LinkedIn" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="Renato-MatLab" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Renato-Markdown" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="Renato-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
