@@ -19,19 +19,20 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
 --->
 
 <div align="center"><br>
-  <img align="center" alt="Renato-Python" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renato-Java" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Renato-HTML" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renato-CSS" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renato-Js" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   <img align="center" alt="Renato-Arduino" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> 
-  <img align="center" alt="Renato-Jupyter" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Renato-Python" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Renato-Java" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Renato-HTML" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Renato-CSS" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Renato-Js" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">   
+  <img align="center" alt="Renato-Arduino" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"> 
+  <img align="center" alt="Renato-Jupyter" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   
   <br><br>
   
-  <img align="center" alt="Renato-Pandas" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Renato-VSCode" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Renato-Pandas" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Renato-VSCode" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Renato-C" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Renato-Anaconda" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Renato-Anaconda" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="Renato-Django" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Renato-Docker" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Renato-Firebase" height="56" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
