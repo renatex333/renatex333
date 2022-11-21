@@ -8,7 +8,8 @@
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
 
 <a href="www.linkedin.com/in/renato-laffranchi-falcao">
- <img align="left" alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> Meu Perfil no LinkedIn
+  Meu Perfil no LinkedIn &rarr
+  <img align="left" alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 ##
