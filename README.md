@@ -53,8 +53,7 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
   <img align="center" alt="Renato-NodeJs" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 
   <br><br>
-
-  <img align="center" alt="Renato-NPM" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  
   <img align="center" alt="Renato-OpenCV" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg">
   <img align="center" alt="Renato-PostgresSQL" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Renato-RaspberryPi" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg">
@@ -62,14 +61,9 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
 
   <br><br>
 
-  <img align="center" alt="Renato-Trello" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="Renato-Ubuntu" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Renato-Terraform" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Renato-AWS" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Renato-FASTAPI" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
-  
-  <br><br>
-  
+  <img align="center" alt="Renato-FASTAPI" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">  
   <img align="center" alt="Renato-MySQL" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Renato-SQLAlchemy" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
 <!--   <img align="center" alt="Renato-" height="112" width="140" src="">
