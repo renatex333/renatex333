@@ -8,11 +8,9 @@
 --->
 - 👋 Olá! Eu sou o @renatex333
 - 👨‍🎓 Estou me graduando em Engenharia da Computação
+- <a href="www.linkedin.com/in/renato-laffranchi-falcao"><img alt="Renato-LinkedIn" height="18" width="22.5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> Meu Perfil no LinkedIn 
 
-Meu Perfil no LinkedIn &rarr;
-<a href="www.linkedin.com/in/renato-laffranchi-falcao">
-  <img alt="Renato-LinkedIn" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
+
 
 ##
 
