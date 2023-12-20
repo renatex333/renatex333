@@ -26,8 +26,6 @@ Referência para os ícones: https://github.com/devicons/devicon/tree/master/ico
   <img align="center" alt="Renato-CPP" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Renato-Java" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <br><br>
-  <img align="center" alt="Renato-Js" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Renato-React" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Renato-AWS" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Renato-Terraform" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
   <br>
