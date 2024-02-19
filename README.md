@@ -1,4 +1,4 @@
-![Gris stony guy saying 'Hi'](src/gris.gif)
+[Banner](src/banner.png)
 
 - 👋 Hi! My name is Renato!
 - 👨‍🎓 I'm graduating in Computer Engineering @ Insper, São Paulo, Brazil 🦊 🇧🇷
