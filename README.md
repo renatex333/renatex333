@@ -1,4 +1,4 @@
-[Banner](src/banner.png)
+![Banner](img/banner.png)
 
 - 👋 Hi! My name is Renato!
 - 👨‍🎓 I'm graduating in Computer Engineering @ Insper, São Paulo, Brazil 🦊 🇧🇷
