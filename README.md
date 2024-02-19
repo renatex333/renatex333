@@ -9,30 +9,7 @@
 
 ## Tech Stack
 
-<!---
-Referência para os ícones: https://github.com/devicons/devicon/tree/master/icons
---->
-
-
-<div align="center">
-  <br>
-  <img align="center" alt="Renato-Python" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Renato-Pandas" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Renato-TensorFlow" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-  <img align="center" alt="Renato-OpenCV" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg">
-  <img align="center" alt="Renato-MySQL" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <br><br>
-  <img align="center" alt="Renato-C" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Renato-CPP" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Renato-Java" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <br><br>
-  <img align="center" alt="Renato-AWS" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Renato-Terraform" height="112" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
-  <br>
-
-<!--   <img align="center" alt="Renato-" height="112" width="140" src="">   -->
-
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatex333)](https://github.com/anuraghazra/github-readme-stats)
     
 ##
 
