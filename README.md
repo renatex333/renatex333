@@ -1,7 +1,7 @@
 ![Banner](img/banner.png)
 
 - 👋 Hi! My name is Renato!
-- 👨‍🎓 I'm graduating in Computer Engineering @ Insper, São Paulo, Brazil 🦊 🇧🇷
+- 👨‍🎓 I'm graduating in Computer Engineering at Insper, São Paulo, Brazil 🦊 🇧🇷
 - 🤖 I'm also an enthusiast in AI/ML/RL
 
 ##
