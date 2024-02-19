@@ -28,7 +28,11 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=tokyonight" width=750  alt="stats graph"/>
+</div>
+
+[![Anurag's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
     
 ##
 
