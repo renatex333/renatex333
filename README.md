@@ -33,7 +33,8 @@ Icons source: https://github.com/devicons/devicon/tree/master/icons
 ##
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=tokyonight" width=500  alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=renatex333&show_icons=true&theme=tokyonight" width=500  alt="github stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatex333&hide=ShaderLab&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" width=500 alt="most used languages stats" >
 </div>
     
 ##
