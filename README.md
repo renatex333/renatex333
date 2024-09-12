@@ -1,12 +1,14 @@
-![Banner](img/banner.png)
+👋 Hi, I’m Renato! 
 
-- 👋 Hi! My name is Renato!
-- 👨‍🎓 I'm graduating in Computer Engineering at Insper, São Paulo, Brazil 🦊 🇧🇷
-- 🤖 I'm also an enthusiast in AI/ML/RL
+🎓 I’m currently pursuing a degree in Computer Engineering at [Insper](https://www.insper.edu.br/), São Paulo, Brazil 🦊🇧🇷
+
+🤖 Passionate about AI, Machine Learning, and Reinforcement Learning!
 
 ##
 
-## Techs I enjoy using
+![Banner](img/banner.png)
+
+## Technologies I Love Working With
 
 <!---
 Icons source: https://github.com/devicons/devicon/tree/master/icons
