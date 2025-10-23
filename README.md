@@ -4,10 +4,11 @@
 
 🤖 Passionate about AI, Machine Learning, and Reinforcement Learning!
 
+<!---
 ##
 
 ![Banner](img/banner.png)
-
+--->
 ## Technologies I Love Working With
 
 <!---
